@@ -51,7 +51,7 @@
 
 **Data Science & Machine Learning:**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square&logo=treehouse&logoColor=white)
 
 ---
@@ -61,13 +61,13 @@
 <div align="center">
 
 <!-- GitHub Streak Stats for Daily Updates -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sxnjxy25&theme=tokyonight&hide_border=true" alt="Sanjay's Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sxnjxy25&theme=tokyonight&hide_border=true" alt="Sanjay's Streak" />
 
 <br/><br/>
 
 <!-- General Contribution Stats and Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sxnjxy25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxnjxy25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sxnjxy25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sxnjxy25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -76,7 +76,11 @@
 ### 🐍 Daily Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
