@@ -76,11 +76,8 @@
 ### 🐍 Daily Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sxnjxy25/Sxnjxy25/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
 ---
