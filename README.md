@@ -11,26 +11,30 @@
   📍 <b>Coimbatore, Tamil Nadu, India</b> &nbsp;•&nbsp; 🎓 <b>Sri Ramakrishna Institute of Technology (SRIT)</b>
 </h3>
 
-<!-- Compact Square / Rounded-Square Modern UI Buttons -->
+<!-- Square Mobile-App-Icon Style Connect Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="46" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" height="32" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="46" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="32" />
+    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/71382502143_san1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" height="32" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="46" height="46" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sxnjxy25">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46" height="46" />
   </a>
 </p>
 
@@ -66,63 +70,54 @@
 
 <br/>
 
-<!-- ================= TECHNICAL STACK & TOOLING ================= -->
+<!-- ================= TECHNICAL STACK & TOOLING (SQUARE APP ICONS) ================= -->
 ## 🛠️ Technical Stack & Tooling
 
 <br/>
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL" height="32" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,postgres" alt="C, C++, Java, Python, JavaScript, SQL" />
 </p>
 
 <br/>
 
 ### 🌐 Web & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="32" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,html,css" alt="React.js, Node.js, Spring Boot, HTML5, CSS3" />
 </p>
 
 <br/>
 
 ### 🗄️ Databases & Graphs
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vector_Search-00E5FF?style=flat-square&logo=mongodb&logoColor=black" alt="Vector Search" height="32" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j" alt="PostgreSQL, MongoDB, Neo4j" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vector%20Search-00E5FF?style=for-the-badge&logo=mongodb&logoColor=black" height="48" alt="Vector Search" />
 </p>
 
 <br/>
 
 ### 🤖 AI / ML & RAG
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square&logo=treehouse&logoColor=white" alt="Random Forest" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RAG_Apps-7928CA?style=flat-square&logo=openai&logoColor=white" alt="RAG Apps" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI_Agents-0070F3?style=flat-square&logo=fastapi&logoColor=white" alt="AI Agents" height="32" />
+  <img src="https://skillicons.dev/icons?i=sklearn,matlab,py" alt="Scikit-Learn, MATLAB, Python" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white" height="48" alt="XGBoost" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=for-the-badge&logo=treehouse&logoColor=white" height="48" alt="Random Forest" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RAG%20Apps-7928CA?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="RAG Apps" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI%20Agents-0070F3?style=for-the-badge&logo=fastapi&logoColor=white" height="48" alt="AI Agents" />
 </p>
 
 <br/>
 
 ### 🛠️ Tools & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Catalyst" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zoho%20Catalyst-E42528?style=for-the-badge&logo=zoho&logoColor=white" height="48" alt="Zoho Catalyst" />
 </p>
 
 <br/>
@@ -137,10 +132,11 @@
       <p><b>Event:</b> Smart India Hackathon (SIH 2026)</p>
       <p>Predictive machine learning pipeline and analytics dashboard engineered to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+        <img src="https://skillicons.dev/icons?i=py,postgres" height="36" alt="Python, SQL" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" height="30" alt="XGBoost" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30" alt="Scikit-Learn" />
       </p>
       <a href="./projects/"><b>Explore Project Architecture →</b></a>
     </td>
@@ -149,10 +145,11 @@
       <p><b>Event:</b> Karnataka State Police Datathon 2026</p>
       <p>Intelligence platform combining Neo4j graph database modeling with gradient boosted risk-scoring to map criminal entity relationships and detect syndicate patterns.</p>
       <p>
-        <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-        <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Catalyst" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=neo4j,py" height="36" alt="Neo4j, Python" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" height="30" alt="XGBoost" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" height="30" alt="Zoho Catalyst" />
       </p>
       <a href="./projects/"><b>Explore Project Architecture →</b></a>
     </td>
@@ -240,23 +237,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="46" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" height="32" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="46" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="32" />
+    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/71382502143_san1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" height="32" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="46" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="46" height="46" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sxnjxy25">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46" height="46" />
   </a>
 </p>
 
