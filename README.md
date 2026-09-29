@@ -11,30 +11,22 @@
   📍 <b>Coimbatore, Tamil Nadu, India</b> &nbsp;•&nbsp; 🎓 <b>Sri Ramakrishna Institute of Technology (SRIT)</b>
 </h3>
 
-<!-- Square Mobile-App-Icon Style Connect Buttons -->
+<!-- Square Mobile-App-Icon Connect Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="46" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">
-    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/71382502143_san1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sxnjxy25">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
   </a>
 </p>
 
@@ -62,7 +54,7 @@
         <li>💼 <b>Current Status:</b> 2nd Year (3rd Semester) CSE Undergraduate</li>
         <li>🚀 <b>Internships:</b> Actively seeking Software Engineering & AI/ML Summer Internships</li>
         <li>🤖 <b>Active Domains:</b> Full-Stack Web Development, Graph Analytics (Neo4j), & Vector Search (MongoDB)</li>
-        <li>⚡ <b>Daily Practice:</b> Solving algorithmic challenges across LeetCode, GFG & HackerRank</li>
+        <li>⚡ <b>Daily Practice:</b> Solving algorithmic challenges across <a href="https://leetcode.com/u/Sxnjxy25/">LeetCode</a>, <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">GFG</a> & <a href="https://www.hackerrank.com/profile/71382502143_san1">HackerRank</a></li>
       </ul>
     </td>
   </tr>
@@ -70,7 +62,7 @@
 
 <br/>
 
-<!-- ================= TECHNICAL STACK & TOOLING (SQUARE APP ICONS) ================= -->
+<!-- ================= TECHNICAL STACK & TOOLING ================= -->
 ## 🛠️ Technical Stack & Tooling
 
 <br/>
@@ -92,32 +84,20 @@
 ### 🗄️ Databases & Graphs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j" alt="PostgreSQL, MongoDB, Neo4j" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vector%20Search-00E5FF?style=for-the-badge&logo=mongodb&logoColor=black" height="48" alt="Vector Search" />
 </p>
 
 <br/>
 
-### 🤖 AI / ML & RAG
+### 🤖 AI / ML & Intelligent Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn,matlab,py" alt="Scikit-Learn, MATLAB, Python" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white" height="48" alt="XGBoost" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=for-the-badge&logo=treehouse&logoColor=white" height="48" alt="Random Forest" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RAG%20Apps-7928CA?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="RAG Apps" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%20Agents-0070F3?style=for-the-badge&logo=fastapi&logoColor=white" height="48" alt="AI Agents" />
 </p>
 
 <br/>
 
-### 🛠️ Tools & Cloud
+### 🛠️ Tools & Cloud Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Zoho%20Catalyst-E42528?style=for-the-badge&logo=zoho&logoColor=white" height="48" alt="Zoho Catalyst" />
 </p>
 
 <br/>
@@ -132,11 +112,7 @@
       <p><b>Event:</b> Smart India Hackathon (SIH 2026)</p>
       <p>Predictive machine learning pipeline and analytics dashboard engineered to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,postgres" height="36" alt="Python, SQL" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" height="30" alt="XGBoost" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30" alt="Scikit-Learn" />
+        <img src="https://skillicons.dev/icons?i=py,postgres,sklearn" alt="Python, SQL, Scikit-Learn" />
       </p>
       <a href="./projects/"><b>Explore Project Architecture →</b></a>
     </td>
@@ -145,11 +121,7 @@
       <p><b>Event:</b> Karnataka State Police Datathon 2026</p>
       <p>Intelligence platform combining Neo4j graph database modeling with gradient boosted risk-scoring to map criminal entity relationships and detect syndicate patterns.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=neo4j,py" height="36" alt="Neo4j, Python" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" height="30" alt="XGBoost" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" height="30" alt="Zoho Catalyst" />
+        <img src="https://skillicons.dev/icons?i=neo4j,py" alt="Neo4j, Python" />
       </p>
       <a href="./projects/"><b>Explore Project Architecture →</b></a>
     </td>
@@ -237,27 +209,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="46" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">
-    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/71382502143_san1">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="46" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sxnjxy25">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46" height="46" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
   </a>
 </p>
 
