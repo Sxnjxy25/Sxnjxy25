@@ -64,62 +64,64 @@
 
 <br/>
 
-<!-- ================= FULL-WIDTH HORIZONTAL TECH STACK ================= -->
+<!-- ================= TECHNICAL STACK & TOOLING ================= -->
 ### 🛠️ Technical Stack & Tooling
 
-<table width="100%">
-  <tr>
-    <td width="22%" align="center"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Web & Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases & Graphs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-      <img src="https://img.shields.io/badge/Vector_Search-00E5FF?style=flat-square&logo=mongodb&logoColor=black" alt="Vector Search" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI / ML & RAG</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square&logo=treehouse&logoColor=white" alt="Random Forest" />
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-      <img src="https://img.shields.io/badge/RAG_Apps-7928CA?style=flat-square&logo=openai&logoColor=white" alt="RAG Apps" />
-      <img src="https://img.shields.io/badge/AI_Agents-0070F3?style=flat-square&logo=fastapi&logoColor=white" alt="AI Agents" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Tools & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Linux_SELinux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Catalyst" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL" height="30" />
+</p>
+
+<br/>
+
+#### 🌐 Web & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="30" />
+</p>
+
+<br/>
+
+#### 🗄️ Databases & Graphs
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vector_Search-00E5FF?style=flat-square&logo=mongodb&logoColor=black" alt="Vector Search" height="30" />
+</p>
+
+<br/>
+
+#### 🤖 AI / ML & RAG
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=flat-square&logo=treehouse&logoColor=white" alt="Random Forest" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RAG_Apps-7928CA?style=flat-square&logo=openai&logoColor=white" alt="RAG Apps" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI_Agents-0070F3?style=flat-square&logo=fastapi&logoColor=white" alt="AI Agents" height="30" />
+</p>
+
+<br/>
+
+#### 🛠️ Tools & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="30" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zoho_Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Catalyst" height="30" />
+</p>
 
 <br/>
 
