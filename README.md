@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Sanjay G
+#  Sanjay G
 
 <!-- Animated Typing Banner (Wide & Modern) -->
 <a href="https://git.io/typing-svg">
