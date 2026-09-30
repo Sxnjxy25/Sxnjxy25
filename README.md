@@ -70,7 +70,11 @@
 
 ### 🤖 AI / ML & Intelligent Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,matlab,py" alt="Scikit-Learn, MATLAB, Python" />
+  <img src="https://skillicons.dev/icons?i=py,matlab" alt="Python, MATLAB" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-EB6440?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest" height="48" />
 </p>
 
 <br/>
@@ -87,10 +91,14 @@
 
 ### 🛡️ Cybercrime Cash Withdrawal Prediction
 * **Event:** Smart India Hackathon (SIH 2026)
-* **Overview:** Predictive machine learning pipeline and analytics dashboard engineered to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.
+* **Overview:** Predictive machine learning pipeline and analytics dashboard engineered with XGBoost & Random Forest to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,sklearn" alt="Python, SQL, Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=py,postgres" alt="Python, PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-EB6440?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest" height="48" />
 </p>
 
 <p align="left">

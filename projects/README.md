@@ -9,10 +9,10 @@ A structured catalog of machine learning solutions, graph analytics prototypes, 
 ### 1. 🛡️ Cybercrime Cash Withdrawal Prediction & Analytics Dashboard
 * **Event / Context**: Smart India Hackathon (SIH 2026)
 * **Domain**: Cybersecurity, Financial Crime Intelligence, Anomaly Detection
-* **Tech Stack**: `Python`, `XGBoost`, `Scikit-Learn`, `SQL / PostgreSQL`, `Data Analytics Dashboard`
+* **Tech Stack**: `Python`, `XGBoost`, `Random Forest`, `SQL / PostgreSQL`, `Data Analytics Dashboard`
 * **Architecture & Highlights**:
   * Machine learning pipeline engineered to detect transaction anomalies and predict high-risk cash withdrawal spikes across geographical nodes.
-  * Utilizes gradient boosting (`XGBoost`) for high-precision pattern classification on transactional feature vectors.
+  * Utilizes gradient boosting (`XGBoost`) and ensemble learning (`Random Forest`) for high-precision pattern classification on transactional feature vectors.
   * Designed to provide real-time risk indicators and visual analytics for financial cybersecurity enforcement.
 
 ---
