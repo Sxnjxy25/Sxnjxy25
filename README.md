@@ -11,23 +11,12 @@
   📍 <b>Coimbatore, Tamil Nadu, India</b> &nbsp;•&nbsp; 🎓 <b>Sri Ramakrishna Institute of Technology (SRIT)</b>
 </h3>
 
-<!-- Square Mobile-App-Icon Connect Links -->
+<!-- Connect Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Sxnjxy25">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
-  </a>
+  <a href="https://www.linkedin.com/in/sanjay--g/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sxnjxy25/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Sxnjxy25" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:71382502143.sanjay@sritcbe.ac.in"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" /></a>
 </p>
 
 </div>
@@ -199,21 +188,10 @@
 ## 📬 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay--g/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sxnjxy25/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Sxnjxy25">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:71382502143.sanjay@sritcbe.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
-  </a>
+  <a href="https://www.linkedin.com/in/sanjay--g/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sxnjxy25/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Sxnjxy25" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:71382502143.sanjay@sritcbe.ac.in"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" /></a>
 </p>
 
 <p align="center">
