@@ -34,31 +34,22 @@
 
 <br/>
 
-<!-- ================= 2-COLUMN: ABOUT & CURRENT FOCUS ================= -->
+<!-- ================= ABOUT & CURRENT FOCUS ================= -->
 ## 👨‍💻 About Me & Current Focus
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ Profile & Academics</h3>
-      <ul>
-        <li>🎓 <b>Degree:</b> B.E. in Computer Science & Engineering (2025–2029)</li>
-        <li>🏫 <b>Institution:</b> Sri Ramakrishna Institute of Technology (SRIT), Coimbatore</li>
-        <li>📚 <b>Key Coursework:</b> Database Management Systems (DBMS), Machine Learning, Data Structures & Algorithms, OOP</li>
-        <li>💡 <b>Core Philosophy:</b> Engineering robust, data-driven systems with continuous coding discipline</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Objectives & Practice</h3>
-      <ul>
-        <li>💼 <b>Current Status:</b> 2nd Year (3rd Semester) CSE Undergraduate</li>
-        <li>🚀 <b>Internships:</b> Actively seeking Software Engineering & AI/ML Summer Internships</li>
-        <li>🤖 <b>Active Domains:</b> Full-Stack Web Development, Graph Analytics (Neo4j), & Vector Search (MongoDB)</li>
-        <li>⚡ <b>Daily Practice:</b> Solving algorithmic challenges across <a href="https://leetcode.com/u/Sxnjxy25/">LeetCode</a>, <a href="https://www.geeksforgeeks.org/profile/sxnjxy25">GFG</a> & <a href="https://www.hackerrank.com/profile/71382502143_san1">HackerRank</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🏛️ Profile & Academics
+- 🎓 **Degree:** B.E. in Computer Science & Engineering (2025–2029)
+- 🏫 **Institution:** Sri Ramakrishna Institute of Technology (SRIT), Coimbatore
+- 📚 **Key Coursework:** Database Management Systems (DBMS), Machine Learning, Data Structures & Algorithms, OOP
+- 💡 **Core Philosophy:** Engineering robust, data-driven systems with continuous coding discipline
+
+<br/>
+
+### 🎯 Objectives & Practice
+- 💼 **Current Status:** 2nd Year (3rd Semester) CSE Undergraduate
+- 🚀 **Internships:** Actively seeking Software Engineering & AI/ML Summer Internships
+- 🤖 **Active Domains:** Full-Stack Web Development, Graph Analytics (Neo4j), & Vector Search (MongoDB)
+- ⚡ **Daily Practice:** Solving algorithmic challenges across [LeetCode](https://leetcode.com/u/Sxnjxy25/), [GFG](https://www.geeksforgeeks.org/profile/sxnjxy25) & [HackerRank](https://www.hackerrank.com/profile/71382502143_san1)
 
 <br/>
 
@@ -102,68 +93,68 @@
 
 <br/>
 
-<!-- ================= 2-COLUMN: FEATURED PROJECTS ================= -->
+<!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured AI & Software Solutions
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🛡️ Cybercrime Cash Withdrawal Prediction</h2>
-      <p><b>Event:</b> Smart India Hackathon (SIH 2026)</p>
-      <p>Predictive machine learning pipeline and analytics dashboard engineered to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=py,postgres,sklearn" alt="Python, SQL, Scikit-Learn" />
-      </p>
-      <a href="./projects/"><b>Explore Project Architecture →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🔍 CrimeVision AI Intelligence Prototype</h2>
-      <p><b>Event:</b> Karnataka State Police Datathon 2026</p>
-      <p>Intelligence platform combining Neo4j graph database modeling with gradient boosted risk-scoring to map criminal entity relationships and detect syndicate patterns.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=neo4j,py" alt="Neo4j, Python" />
-      </p>
-      <a href="./projects/"><b>Explore Project Architecture →</b></a>
-    </td>
-  </tr>
-</table>
+### 🛡️ Cybercrime Cash Withdrawal Prediction
+* **Event:** Smart India Hackathon (SIH 2026)
+* **Overview:** Predictive machine learning pipeline and analytics dashboard engineered to detect financial transaction anomalies and forecast high-risk cash withdrawal surges across geographical zones.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,sklearn" alt="Python, SQL, Scikit-Learn" />
+</p>
+
+<p align="left">
+  <a href="./projects/"><b>Explore Project Architecture →</b></a>
+</p>
 
 <br/>
 
-<!-- ================= 2-COLUMN: HACKATHONS & CERTIFICATIONS ================= -->
+### 🔍 CrimeVision AI Intelligence Prototype
+* **Event:** Karnataka State Police Datathon 2026
+* **Overview:** Intelligence platform combining Neo4j graph database modeling with gradient boosted risk-scoring to map criminal entity relationships and detect syndicate patterns.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neo4j,py" alt="Neo4j, Python" />
+</p>
+
+<p align="left">
+  <a href="./projects/"><b>Explore Project Architecture →</b></a>
+</p>
+
+<br/>
+
+<!-- ================= HACKATHONS & CERTIFICATIONS ================= -->
 ## 🏆 Competitions & Verified Credentials
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎖️ Hackathons & Competitions</h3>
-      <ul>
-        <li><b>Smart India Hackathon (SIH 2026)</b> — Cybercrime ML model</li>
-        <li><b>Datathon 2026 (KSP)</b> — CrimeVision AI Graph prototype</li>
-        <li><b>Build With Bharat 2.0</b> — NIT Delhi / Logitech (Team <code>reztech</code>)</li>
-        <li><b>RAS Builders Arena 2.0</b> — Regional AI Summit at SRIT</li>
-        <li><b>DataForge 2026</b> — IIT Kharagpur (KDAG)</li>
-        <li><b>HackIndia Spark 6</b> — NIT Delhi (Team <code>DIGITAL INNOVATOR</code>)</li>
-        <li><b>OOSC 4.0 Hackathon</b> — IIIT Allahabad</li>
-        <li><b>Omnikon National Hackathon 2026</b> — Prototyping</li>
-        <li><b>Buildathon 2026 & IdeaForge</b> — TechVerse Solutions</li>
-      </ul>
-      <p align="right"><a href="./hackathons/"><b>View Complete Hackathons Log →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Verified Certifications</h3>
-      <ul>
-        <li>🍃 <b>MongoDB (Credly):</b> Vector Search, AI Agents, RAG Apps, Resilient AI Strategy</li>
-        <li>🏢 <b>IBM SkillsBuild:</b> Enterprise Design Thinking Practitioner, DevOps, Clean Coding</li>
-        <li>🎓 <b>NPTEL / Swayam:</b> Design Thinking – A Primer (<b>Elite: 65%</b>, 2 Credits)</li>
-        <li>📐 <b>MathWorks (MATLAB):</b> Data Analysis, Machine Learning, Statistics Onramp</li>
-        <li>🛡️ <b>Infosys Springboard:</b> Cyber Security Foundation, SELinux, Python Journeyman, Cryptography</li>
-        <li>💻 <b>Udemy:</b> Python for Data Science & ML (25 hrs — Jose Portilla)</li>
-      </ul>
-      <p align="right"><a href="./certificates/"><b>View Certificates Directory →</b></a></p>
-    </td>
-  </tr>
-</table>
+### 🎖️ Hackathons & Competitions
+* **Smart India Hackathon (SIH 2026)** — Cybercrime ML model
+* **Datathon 2026 (KSP)** — CrimeVision AI Graph prototype
+* **Build With Bharat 2.0** — NIT Delhi / Logitech (Team `reztech`)
+* **RAS Builders Arena 2.0** — Regional AI Summit at SRIT
+* **DataForge 2026** — IIT Kharagpur (KDAG)
+* **HackIndia Spark 6** — NIT Delhi (Team `DIGITAL INNOVATOR`)
+* **OOSC 4.0 Hackathon** — IIIT Allahabad
+* **Omnikon National Hackathon 2026** — Prototyping
+* **Buildathon 2026 & IdeaForge** — TechVerse Solutions
+
+<p align="left">
+  <a href="./hackathons/"><b>View Complete Hackathons Log →</b></a>
+</p>
+
+<br/>
+
+### 📜 Verified Certifications
+* 🍃 **MongoDB (Credly):** Vector Search, AI Agents, RAG Apps, Resilient AI Strategy
+* 🏢 **IBM SkillsBuild:** Enterprise Design Thinking Practitioner, DevOps, Clean Coding
+* 🎓 **NPTEL / Swayam:** Design Thinking – A Primer (<b>Elite: 65%</b>, 2 Credits)
+* 📐 **MathWorks (MATLAB):** Data Analysis, Machine Learning, Statistics Onramp
+* 🛡️ **Infosys Springboard:** Cyber Security Foundation, SELinux, Python Journeyman, Cryptography
+* 💻 **Udemy:** Python for Data Science & ML (25 hrs — Jose Portilla)
+
+<p align="left">
+  <a href="./certificates/"><b>View Certificates Directory →</b></a>
+</p>
 
 <br/>
 
